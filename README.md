@@ -1,1 +1,3 @@
-# parallax-theme
+# Parallax-theme
+
+### SSI includes + custom responsive styles
