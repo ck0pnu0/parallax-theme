@@ -1,0 +1,32 @@
+	<footer class="footer">
+		<div class="map-holder">
+			<a href="#" class="btn">Map</a>
+			
+			<div class="map-inner">
+				<div id="map"></div>
+			</div><!-- /.map-inner -->
+		</div><!-- /.map-holder -->
+
+		<div class="shell">
+			<div class="copyright">
+				<p>&copy; 2016 All Rights Reserved</p>
+			</div><!-- /.copyright -->
+
+			<div class="site-info">
+				<p>Powered by Company</p>
+			</div><!-- /.site-info -->
+		</div><!-- /.shell -->
+	</footer><!-- /.footer -->
+
+	<a class="scroll-top"><i class="fa fa-angle-up"></i></a>
+	
+	<script src="js/jquery-1.12.3.min.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2SRf46B3AJhP542FUo8gbc-uliDPeIfo&amp;callback=initMap"
+    async defer></script>
+	<script src="js/skrollr.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/jquery.flexslider-min.js"></script>
+	<script src="js/jquery.fullscreener.min.js"></script>		
+    <script src="js/functions.js"></script>
+</body>
+</html>
